@@ -1,0 +1,104 @@
+body {
+    background:fixed;
+    background-image: url("hawa.jpg");
+    background-size: 1600px 800px;
+  }
+.navbar-brand {
+    
+    padding:10px;
+    border-radius: 30px;
+    
+}
+.navbar {
+    background-color: rgb(254, 253, 251);
+  border: solid black;
+  opacity: 0.7
+    
+}
+.nav-item{
+    margin-left: 40px;
+    opacity: 0.6;
+    
+}
+.ot{
+    margin-left: 70vh;
+    margin-top: 20px;
+    color: rgb(8, 70, 121);
+}
+.ot2{
+    margin-left: 70vh;
+    margin-top: 20px;
+    color: rgb(8, 70, 121);
+}
+.form-label{
+    color: rgb(1, 5, 13);
+}
+.input-group {
+    margin: 5vh;
+    padding: 10px;
+    border-radius: 30px;
+    width: 90vh;
+    margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+.col-12{
+    margin-left: 30px;
+}
+.row{
+    margin: 30px;
+    padding: 40px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  border-radius: 30px;
+  
+}
+.row g-3{
+    display: flex;
+    height: 20vh;
+    width: 40vh;
+}
+.form-control{
+    height: auto!important ;
+    border: solid;
+    margin-left: 10px;
+    margin-right:10px;
+}
+ 
+.footer{
+    opacity: 1;
+    position: absolute;
+}
+.copyright{
+    color: azure;
+    margin-left:90vh ;
+    margin-bottom: 20vh;
+}
+.nav-link{
+    font-weight: 900;
+}
+.Room{
+    padding: 40px;
+    margin: 40px; 
+    background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  border-radius: 30px;
+}
+.Rate{
+    padding: 40px;
+    margin: 40px; 
+    background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  border-radius: 30px;
+}
+.form-label{
+    color: #080808;
+}
+.input-group{
+    font-weight: 900;
+    width: 80vh;
+}
